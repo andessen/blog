@@ -1,7 +1,6 @@
-title: Andessen Blog
-email: (To be added soon)
-description: > # this means to ignore newlines until "baseurl:"
-	Data science, startup tech, coding, mathematics.
+title: "Andessen Blog"
+email: "(To be added soon)"
+description: "Data science, startup tech, coding, mathematics"
 baseurl: /blog 
 url: "http://yourdomain.com" 
 twitter_username: andersjalan
